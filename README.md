@@ -1,6 +1,6 @@
 # Grid
 
-Web aplikacija za menadzment i vodjenje biznis haba Grid.
+Web aplikacija za menadzment biznis haba Grid.
 
 ## Start up
 
