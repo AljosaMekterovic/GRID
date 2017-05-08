@@ -8,10 +8,10 @@ Otvori [index.html](file:///home/aljosa/Desktop/Grid/public/index.html) u browse
 
 ## To do
 
-- logo, naoravi contact stranu, napravi about, napravi home
+- logo,
 
 ## Done
-
+- naoravi contact stranu, napravi about, napravi home
 - napravi index html stranu
 - bootstrap
 - responsive
